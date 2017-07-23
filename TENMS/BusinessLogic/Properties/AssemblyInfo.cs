@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TENMS")]
+[assembly: AssemblyTitle("BusinessLogic")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TENMS")]
+[assembly: AssemblyProduct("BusinessLogic")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0d47127d-df29-4a05-96e6-5081bce85f41")]
+[assembly: Guid("bb473ff1-ae49-425a-a4db-a2cfad9d2106")]
 
 // Version information for an assembly consists of the following four values:
 //
