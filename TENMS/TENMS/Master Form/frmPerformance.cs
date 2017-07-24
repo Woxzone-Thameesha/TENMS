@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TENMS
 {
-    public partial class Form1 : Form
+    public partial class frmPerformance : Form
     {
-        public Form1()
+        public frmPerformance()
         {
             InitializeComponent();
         }
